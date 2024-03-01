@@ -2,7 +2,12 @@
 
 Rust-inspired C-like language
 
-### Goals
+### Todo
+1. [ ] CLI interface
+2. [ ] Open and read from a file
+3. [ ] Simple lexer
+
+### Design Goals
 - [ ] comments
 - [ ] types
 - [ ] variables
