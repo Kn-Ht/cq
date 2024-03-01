@@ -12,7 +12,7 @@ Rust-inspired C-like language
 - [ ] compile to assembly or some other backend.
 ---
 ### Hello World
-```C
+```rust
 let main() {
     show("Hello, World!");
 }
