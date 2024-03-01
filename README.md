@@ -13,7 +13,7 @@ Rust-inspired C-like language
 ---
 ### Hello World
 ```C
-fn main(args: [str]) {
-    println("Hello, World!");
+let main() {
+    show("Hello, World!");
 }
 ```
